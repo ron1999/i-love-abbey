@@ -1,0 +1,13 @@
+h1	{
+	text-align: center;
+	font-family: Berkshire Swash;
+	margin: 10%;
+}
+h2{
+	text-align: center;
+	font-size: 400%;
+}
+body {
+	background: rgb(255,255,255);
+	background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(0,212,255,1) 19%, rgba(68,74,154,1) 51%, rgba(103,26,158,1) 63%, rgba(205,62,103,1) 82%, rgba(255,238,77,1) 94%, rgba(255,255,255,1) 100%);
+}
